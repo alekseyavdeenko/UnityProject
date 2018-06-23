@@ -13,14 +13,14 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - Bomb
+  - Orc
+  - Rabbit
+  - OrcVisible
+  - RabbitDeath
+  - OrcDeath
+  - SeenByRabbit
   - 
   - 
   - 
